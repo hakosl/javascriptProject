@@ -39,6 +39,9 @@ a.button:active {
     box-shadow: inset 0 10px 15px 0 #c4c4c4;
     top:2px;}
 }
+.outerDiv{
+    margin: 0 auto;
+}
 .blue{
 	background-color: white;
 }
