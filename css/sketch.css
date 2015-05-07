@@ -40,7 +40,8 @@ a.button:active {
     top:2px;}
 }
 .outerDiv{
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 .blue{
 	background-color: white;
