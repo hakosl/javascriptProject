@@ -34,7 +34,7 @@ function creatGrid(square){
 	$('body').append("<div></div>");
 	$('div').addClass("outerDiv");
 	for(i = 0; i < square; i++){
-		$('div').append("<tr>></tr>");
+		$('div').append("<tr></tr>");
 	};
 	$("<tr></tr>").addClass("outerDiv")
 	for(i = 0; i < square; i++){
